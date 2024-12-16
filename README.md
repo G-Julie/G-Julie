@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @G-Julie
+- 👋 Hi, I’m Julie
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning PowerBi
 - 💞️ I’m looking to collaborate on data-related projects
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: A weeb 😄
+- ⚡ Fun fact: Loading 😄
 
 <!---
 G-Julie/G-Julie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
